@@ -1,0 +1,33 @@
+body {
+  -webkit-text-size-adjust: 100%;
+  margin: 0;
+}
+
+.content {
+  width: 100%;
+}
+
+.header-year {
+  font-size: 22px;
+}
+
+.header-title {
+  font-size: 21px;
+  line-height: 19px;
+}
+
+.video-youtube {
+  width: 100%;
+}
+
+.text-work {
+  padding: 0 7px 7px;
+}
+
+.footer {
+  background: #3a3a3a;
+  color: #eee;
+  font-size: 9px;
+  margin-top: 10px;
+  padding: 3px;
+}
